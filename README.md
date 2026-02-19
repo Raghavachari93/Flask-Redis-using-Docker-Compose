@@ -20,14 +20,6 @@
 
 <p>The Flask service handles HTTP requests, while Redis stores and updates the visit counter.</p>
 
-<img src="https://media2.dev.to/dynamic/image/width%3D1000%2Cheight%3D420%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jdqbz263qx7iufkm63b.png" width="100%">
-<br><br>
-<img src="https://miro.medium.com/0%2A0IWIJQZu96ikQ8_x" width="100%">
-<br><br>
-<img src="https://docs.docker.com/compose/images/compose-application.webp" width="100%">
-<br><br>
-<img src="https://kitware.github.io/dive/images/Diagrams/DIVE-Web-Architecture-Diagram.svg" width="100%">
-
 <hr>
 
 <h2>Project Goal</h2>
